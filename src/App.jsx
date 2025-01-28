@@ -20,7 +20,7 @@ function App() {
     <Router>
       <Routes>
         <Route path='Contactus-prius/' element={<Home />}></Route>
-        <Route path='Conatactus-prius/contact-us' element={<Contact />}></Route>
+        <Route path='Contactus-prius/contact-us' element={<Contact />}></Route>
       </Routes>
  
     </Router>
